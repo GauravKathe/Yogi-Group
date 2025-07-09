@@ -100,6 +100,10 @@ settings (collection)
       <strong>Worker Dashboard</strong><br>
       <img src="assets/screenshots/workerDashboard.jpg" width="300"/>
     </td>
+    <td align="center">
+      <strong>Worker Profile</strong><br>
+      <img src="assets/screenshots/wrkerProfile.jpg" width="300"/>
+    </td>
   </tr>
   <tr>
     <td align="center">
