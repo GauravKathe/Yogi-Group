@@ -90,40 +90,64 @@ settings (collection)
 
 ## 📸 Screenshots
 
-
-### 🔐 Login Page
-![Login Page](assets/screenshots/Loginpage.jpg)
-
-### 🏠 Worker Dashboard
-![Worker Dashboard](assets/screenshots/workerDashboard.jpg)
-
-### 👤 Worker Profile
-![Worker Profile](assets/screenshots/wrkerProfile.jpg)
-
-### 🏗️ Machine Entry Form
-![Machine Entry](assets/screenshots/MachineEntry.jpg)
-
-### ⛽ Diesel Entry Form
-![Diesel Entry](assets/screenshots/DiselEntry.jpg)
-
-### 🧾 Generate Report
-![Generate Report](assets/screenshots/GenerateReport.jpg)
-
-### 🛠️ Maintenance
-![Maintenance](assets/screenshots/Maintainance.jpg)
-
-### ➕ Add User
-![Add User](assets/screenshots/Add User.jpg)
-
-### ➕ Add New Site
-![Add New Site](assets/screenshots/AddNewSite.jpg)
-
-### 🧑‍💼 Admin Dashboard
-![Admin Dashboard](assets/screenshots/AdminDash.jpg)
-
-### 👥 User Management
-![User Management](assets/screenshots/UserManagement.jpg)
-
+<table>
+  <tr>
+    <td align="center">
+      <strong>Login Page</strong><br>
+      <img src="assets/screenshots/Loginpage.jpg" width="300"/>
+    </td>
+    <td align="center">
+      <strong>Worker Dashboard</strong><br>
+      <img src="assets/screenshots/workerDashboard.jpg" width="300"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Worker Profile</strong><br>
+      <img src="assets/screenshots/wrkerProfile.jpg" width="300"/>
+    </td>
+    <td align="center">
+      <strong>Machine Entry</strong><br>
+      <img src="assets/screenshots/MachineEntry.jpg" width="300"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Diesel Entry</strong><br>
+      <img src="assets/screenshots/DiselEntry.jpg" width="300"/>
+    </td>
+    <td align="center">
+      <strong>Generate Report</strong><br>
+      <img src="assets/screenshots/GenerateReport.jpg" width="300"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Maintenance</strong><br>
+      <img src="assets/screenshots/Maintainance.jpg" width="300"/>
+    </td>
+    <td align="center">
+      <strong>Add User</strong><br>
+      <img src="assets/screenshots/Add User.jpg" width="300"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Add New Site</strong><br>
+      <img src="assets/screenshots/AddNewSite.jpg" width="300"/>
+    </td>
+    <td align="center">
+      <strong>Admin Dashboard</strong><br>
+      <img src="assets/screenshots/AdminDash.jpg" width="300"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>User Management</strong><br>
+      <img src="assets/screenshots/UserManagement.jpg" width="300"/>
+    </td>
+  </tr>
+</table>
 
 
 ## 👨‍💻 Developed By
