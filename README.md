@@ -1,7 +1,7 @@
 # Yogi-Group
-# 🚜 Rajvin Machinery Tracker
+# 🚜 Yogi Group Machinery Tracker
 
-**Rajvin Machinery Tracker** is a mobile application built for **Rajvin Enterprises** to digitize and streamline machinery operation tracking. The app replaces traditional paper-based methods with a secure, real-time, cloud-connected system using **Flutter** and **Firebase**. It enables operators and admins to manage machinery usage, diesel logs, and site data efficiently — anytime, anywhere.
+**Yogi Group Machinery Tracker** is a mobile application built for **Yogi Group** to digitize and streamline machinery operation tracking. The app replaces traditional paper-based methods with a secure, real-time, cloud-connected system using **Flutter** and **Firebase**. It enables operators and admins to manage machinery usage, diesel logs, and site data efficiently — anytime, anywhere.
 
 ---
 
@@ -76,3 +76,35 @@ machine_types (collection)
 
 settings (collection)
   └── languageOptions, lastUpdated
+```
+## 🛠 Tech Stack
+
+| Category       | Technology                                    |
+| -------------- | --------------------------------------------- |
+| Mobile App     | Flutter (Dart)                                |
+| Backend        | Firebase Auth, Firestore, Firebase Storage    |
+| Hosting        | Firebase                                      |
+| Optional Tools | Firebase Cloud Functions, PDFKit, GetX/Provider |
+
+---
+## 📦 Folder Structure (Simplified)
+lib/
+├── main.dart
+├── auth/
+│   ├── login_page.dart
+│   └── auth_service.dart
+├── admin/
+│   ├── admin_dashboard.dart
+│   └── user_management.dart
+├── operator/
+│   ├── home_page.dart
+│   ├── machinery_entry.dart
+│   └── diesel_entry.dart
+├── models/
+├── services/
+└── utils/
+---
+## 👨‍💻 Developed By
+Gaurav Kathe and Vaibhav Bhagwat
+---
+
