@@ -87,6 +87,12 @@ settings (collection)
 | Optional Tools | Firebase Cloud Functions, PDFKit, GetX/Provider |
 
 ---
+
+## 📸 Screenshots
+
+### 🔐 Login Page
+![Login Page](assets/screenshots/Loginpage.jpg)
+
 ## 👨‍💻 Developed By
 Gaurav Kathe and Vaibhav Bhagwat
 ---
