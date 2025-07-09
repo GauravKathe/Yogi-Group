@@ -90,8 +90,41 @@ settings (collection)
 
 ## 📸 Screenshots
 
+
 ### 🔐 Login Page
 ![Login Page](assets/screenshots/Loginpage.jpg)
+
+### 🏠 Worker Dashboard
+![Worker Dashboard](assets/screenshots/workerDashboard.jpg)
+
+### 👤 Worker Profile
+![Worker Profile](assets/screenshots/wrkerProfile.jpg)
+
+### 🏗️ Machine Entry Form
+![Machine Entry](assets/screenshots/MachineEntry.jpg)
+
+### ⛽ Diesel Entry Form
+![Diesel Entry](assets/screenshots/DiselEntry.jpg)
+
+### 🧾 Generate Report
+![Generate Report](assets/screenshots/GenerateReport.jpg)
+
+### 🛠️ Maintenance
+![Maintenance](assets/screenshots/Maintainance.jpg)
+
+### ➕ Add User
+![Add User](assets/screenshots/Add User.jpg)
+
+### ➕ Add New Site
+![Add New Site](assets/screenshots/AddNewSite.jpg)
+
+### 🧑‍💼 Admin Dashboard
+![Admin Dashboard](assets/screenshots/AdminDash.jpg)
+
+### 👥 User Management
+![User Management](assets/screenshots/UserManagement.jpg)
+
+
 
 ## 👨‍💻 Developed By
 Gaurav Kathe and Vaibhav Bhagwat
