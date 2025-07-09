@@ -87,24 +87,17 @@ settings (collection)
 | Optional Tools | Firebase Cloud Functions, PDFKit, GetX/Provider |
 
 ---
-## 📦 Folder Structure (Simplified)
-lib/
-├── main.dart
-├── auth/
-│   ├── login_page.dart
-│   └── auth_service.dart
-├── admin/
-│   ├── admin_dashboard.dart
-│   └── user_management.dart
-├── operator/
-│   ├── home_page.dart
-│   ├── machinery_entry.dart
-│   └── diesel_entry.dart
-├── models/
-├── services/
-└── utils/
----
+## 📸 Screenshots
+
+### 🔐 Login Page
+![Login Page](assets/screenshots/Loginpage.jpg)
+
+
+
+
+
 ## 👨‍💻 Developed By
 Gaurav Kathe and Vaibhav Bhagwat
 ---
+
 
