@@ -90,6 +90,8 @@ settings (collection)
 
 ## 📸 Screenshots
 
+## 📸 Screenshots
+
 <table>
   <tr>
     <td align="center">
@@ -107,15 +109,9 @@ settings (collection)
   </tr>
   <tr>
     <td align="center">
-      <strong>Worker Profile</strong><br>
-      <img src="assets/screenshots/wrkerProfile.jpg" width="300"/>
-    </td>
-    <td align="center">
       <strong>Machine Entry</strong><br>
       <img src="assets/screenshots/MachineEntry.jpg" width="300"/>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <strong>Diesel Entry</strong><br>
       <img src="assets/screenshots/DiselEntry.jpg" width="300"/>
@@ -134,22 +130,21 @@ settings (collection)
       <strong>Add User</strong><br>
       <img src="assets/screenshots/Add User.jpg" width="300"/>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <strong>Add New Site</strong><br>
       <img src="assets/screenshots/AddNewSite.jpg" width="300"/>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <strong>Admin Dashboard</strong><br>
       <img src="assets/screenshots/AdminDash.jpg" width="300"/>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <strong>User Management</strong><br>
       <img src="assets/screenshots/UserManagement.jpg" width="300"/>
     </td>
+    <td></td>
   </tr>
 </table>
 
