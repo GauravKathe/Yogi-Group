@@ -90,7 +90,7 @@ settings (collection)
 ## 📸 Screenshots
 
 ### 🔐 Login Page
-![Login Page](assets/screenshots/Loginpage.jpg)
+![Login Page](assets/assets/screenshots/Loginpage.jpg)
 
 
 
